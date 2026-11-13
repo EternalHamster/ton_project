@@ -1,4 +1,4 @@
 import numpy
 
 print("N")
-print("I")
+print("IKI")
